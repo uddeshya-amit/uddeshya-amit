@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uddeshya</h1>
 <h3 align="center">CS sophomore, anime weeb</h3>
 
-<p align="left"> <a href="https://twitter.com/uddeshya4u" target="blank"><img src="https://img.shields.io/twitter/follow/uddeshya4u?logo=twitter&style=for-the-badge" alt="uddeshya4u" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Uddeshya_4U" target="blank"><img src="https://img.shields.io/twitter/follow/uddeshya4u?logo=twitter&style=for-the-badge" alt="uddeshya4u" /></a> </p>
 
 - 🔭 I’m currently working on **my mini-project**
 

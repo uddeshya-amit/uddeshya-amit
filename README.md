@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Uddeshya</h1>
-<h3 align="center">CS sophomore, anime weeb</h3>
+<h3 align="center">Frontend Developer, learning MERN Stack</h3>
 
 <p align="left"> <a href="https://twitter.com/Uddeshya_4U" target="blank"><img src="https://img.shields.io/twitter/follow/uddeshya4u?logo=twitter&style=for-the-badge" alt="uddeshya4u" /></a> </p>
 
-- 🔭 I’m currently working on **my mini-project**
+- 🔭 I’m proficient in frontend development with **React.**
 
-- 🌱 I’m currently learning **Python.**
+- 🌱 I’m currently learning **Backend Technologies.**
 
-- 👯 I’m looking to collaborate on **anything**
+- 👯 I’m looking to collaborate on **anything.**
 
-- 🤝 I’m looking for help with **my mini-project**
+- 💬 Ask me about **cutting edge technologies.**
 
-- 💬 Ask me about **animes**
-
-- 📫 How to reach me **uddeshyasrivastava05@gmail.com**
+- 📫 How to reach me **uddeshyasrivastava05@gmail.com.**
 
 - ⚡ Fun fact **Genjutsu of any level doesn't work on me.**
 
